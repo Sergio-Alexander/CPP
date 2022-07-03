@@ -1,0 +1,5 @@
+﻿  Assignment11.cpp
+  NumberArray.cpp
+D:\Users\these\source\repos\Assignment 11\Assignment 11\NumberArray.cpp(43,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Assignment 11.vcxproj -> D:\Users\these\source\repos\Assignment 11\Debug\Assignment 11.exe

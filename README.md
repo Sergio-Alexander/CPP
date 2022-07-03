@@ -1,1 +1,1 @@
-# This are all the assignments that has been completed at Diablo Vvalley College
+# These are all the assignments that I've completed for C++

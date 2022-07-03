@@ -1,0 +1,5 @@
+﻿  Test.cpp
+E:\Users\these\source\repos\TheTesters\TheTester\Test.cpp(12,30): error C2664: 'int findTotal(int [],int)': cannot convert argument 1 from 'double [7]' to 'int []'
+E:\Users\these\source\repos\TheTesters\TheTester\Test.cpp(12,20): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+E:\Users\these\source\repos\TheTesters\TheTester\Test.cpp(4,5): message : see declaration of 'findTotal'
+E:\Users\these\source\repos\TheTesters\TheTester\Test.cpp(31,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data

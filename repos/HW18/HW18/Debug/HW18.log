@@ -1,0 +1,6 @@
+﻿  linkedlistsarefun.cpp
+E:\Users\these\source\repos\HW18\HW18\linkedlistsarefun.cpp(5,22): error C2061: syntax error: identifier 'Node'
+E:\Users\these\source\repos\HW18\HW18\linkedlistsarefun.cpp(7,12): error C2065: 'Node': undeclared identifier
+E:\Users\these\source\repos\HW18\HW18\linkedlistsarefun.cpp(7,17): error C2059: syntax error: ','
+E:\Users\these\source\repos\HW18\HW18\linkedlistsarefun.cpp(8,12): error C2065: 'Node': undeclared identifier
+E:\Users\these\source\repos\HW18\HW18\linkedlistsarefun.cpp(8,17): error C2059: syntax error: ')'

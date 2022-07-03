@@ -1,0 +1,7 @@
+﻿  lowest.cpp
+E:\Users\these\source\repos\HW06B\HW06B\lowest.cpp(42,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Users\these\source\repos\HW06B\HW06B\lowest.cpp(42,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Users\these\source\repos\HW06B\HW06B\lowest.cpp(42,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Users\these\source\repos\HW06B\HW06B\lowest.cpp(42,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Users\these\source\repos\HW06B\HW06B\lowest.cpp(42,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HW06B.vcxproj -> E:\Users\these\source\repos\HW06B\Debug\HW06B.exe

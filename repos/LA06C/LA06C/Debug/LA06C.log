@@ -1,0 +1,4 @@
+﻿  la06c.cpp
+E:\Users\these\source\repos\LA06C\LA06C\la06c.cpp(22,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Users\these\source\repos\LA06C\LA06C\la06c.cpp(23,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LA06C.vcxproj -> E:\Users\these\source\repos\LA06C\Debug\LA06C.exe
